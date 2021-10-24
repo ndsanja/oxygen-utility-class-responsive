@@ -1,0 +1,25 @@
+/*Border Radius*/
+
+.rounded-sm {
+  border-radius: 0.2rem;
+}
+
+.rounded {
+  border-radius: 0.4rem;
+}
+
+.rounded-md {
+  border-radius: 0.6rem;
+}
+
+.rounded-lg {
+  border-radius: 0.8rem;
+}
+
+.rounded-xl {
+  border-radius: 1.6rem;
+}
+
+.rounded-full {
+  border-radius: 999.901rem;
+}
