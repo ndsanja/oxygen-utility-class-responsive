@@ -1,0 +1,24 @@
+.blur-sm {
+  filter: blur;
+  filter-amount-blur: 4;
+}
+
+.blur {
+  filter: blur;
+  filter-amount-blur: 8;
+}
+
+.blur-md {
+  filter: blur;
+  filter-amount-blur: 12;
+}
+
+.blur-lg {
+  filter: blur;
+  filter-amount-blur: 16;
+}
+
+.blur-xl {
+  filter: blur;
+  filter-amount-blur: 24;
+}
